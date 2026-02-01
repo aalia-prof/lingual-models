@@ -1,0 +1,1 @@
+lingual app gemma model
